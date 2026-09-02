@@ -1,2 +1,2 @@
-# qrcode
-生成与扫描二维码库代码
+库链接：
+https://library-77a.pages.dev/qrcode1.5_bulid.min.js       //生成二维码
