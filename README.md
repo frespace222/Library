@@ -12,3 +12,10 @@ https://library-77a.pages.dev/ethers5.7.2_umd.min.js        //以太坊通用库
 
 https://library-77a.pages.dev/openzeppelin-contracts-upgradeable-4.9.6.zip   //openzeppelin可升级合约库v4.9.6源码zip压缩包。SHA256: f438c623b1aa398337ec45cd92a4c13b0e0b079d28008f3c3be70f334ab6eba7
 
+
+https://library-77a.pages.dev/openzeppelin-contracts-upgradeable-4.9.6.tar.gz   //openzeppelin可升级合约库v4.9.6源码Linux/Unix系统安装包。SHA256: 659790e7f1165215c25a2c92738beb616fd4bf21940b44de08a40b6540888472
+
+
+
+
+
